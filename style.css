@@ -1,0 +1,37 @@
+body {
+  background-color:#000000;
+  font-family: Arial, sans-serif, Helvetica;
+  color:white;
+  font-size: 14px;
+}
+
+img {
+  border-radius: 50%;}
+
+a {
+  color:#00FF84;
+}
+
+.column-container {
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-around;
+}
+
+.column {
+  display:inline-block;
+
+}
+
+h1 {
+  padding-top: 50px;
+  padding-left: 50px;
+  font-size: 38px;
+}
+
+footer {
+  position:absolute;
+  bottom: 10px;
+  text-align:center;
+  width:99%;
+}
